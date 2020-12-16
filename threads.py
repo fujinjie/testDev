@@ -28,6 +28,7 @@ class ThreadsRun:
 if __name__ == "__main__":
     run = ThreadsRun()
     run.main()
+    print ('this is second push')
 
 
 
