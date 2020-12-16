@@ -28,3 +28,4 @@ class NewThreadRun:
 
 if __name__ == "__main__":
     runThread = NewThreadRun().main()
+    print('for third push')
